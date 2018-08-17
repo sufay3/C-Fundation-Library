@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tga;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="JLFL.cpp" />
+    <ClCompile Include="pch.cpp" />
+    <ClCompile Include="JL_CRpc.cpp" />
+    <ClCompile Include="JL_CDataBase.cpp" />
+    <ClCompile Include="JL_CMultiThread.cpp" />
+    <ClCompile Include="JL_CString.cpp" />
+    <ClCompile Include="JL_CHttp.cpp" />
+    <ClCompile Include="JL_CRegExp.cpp" />
+    <ClCompile Include="JL_CArray.cpp" />
+    <ClCompile Include="JL_CLog.cpp" />
+    <ClCompile Include="JL_CUpdate.cpp" />
+    <ClCompile Include="JL_CAuthority.cpp" />
+    <ClCompile Include="JL_CSkin.cpp" />
+    <ClCompile Include="JL_CConfig.cpp" />
+    <ClCompile Include="JL_CEvent.cpp" />
+    <ClCompile Include="JL_CSubSystem.cpp" />
+    <ClCompile Include="JL_CCloud.cpp" />
+    <ClCompile Include="JL_CDataCenter.cpp" />
+    <ClCompile Include="JL_CSafety.cpp" />
+    <ClCompile Include="JL_CCrypt.cpp" />
+    <ClCompile Include="JL_CBusinessIntelligence.cpp" />
+    <ClCompile Include="JL_CMap.cpp" />
+    <ClCompile Include="JL_CCommand.cpp" />
+    <ClCompile Include="JL_CFileSystem.cpp" />
+    <ClCompile Include="JL_CFile.cpp" />
+    <ClCompile Include="JL_CDate.cpp" />
+    <ClCompile Include="JL_CBase.cpp" />
+    <ClCompile Include="JL_CManualIntelligence.cpp" />
+    <ClCompile Include="JL_CLoadBalance.cpp" />
+    <ClCompile Include="JL_CDll.cpp" />
+    <ClCompile Include="JL_CQueue.cpp" />
+    <ClCompile Include="JL_CEnd.cpp" />
+    <ClCompile Include="JL_CSocket.cpp" />
+    <ClCompile Include="JL_CArchitecture.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="JLFL.h" />
+    <ClInclude Include="pch.h" />
+    <ClInclude Include="targetver.h" />
+    <ClInclude Include="JL_CRpc.h" />
+    <ClInclude Include="JL_CDataBase.h" />
+    <ClInclude Include="JL_CString.h" />
+    <ClInclude Include="JL_CMultiThread.h" />
+    <ClInclude Include="JL_CHttp.h" />
+    <ClInclude Include="JL_CRegExp.h" />
+    <ClInclude Include="JL_CArray.h" />
+    <ClInclude Include="JL_CLog.h" />
+    <ClInclude Include="JL_CUpdate.h" />
+    <ClInclude Include="JL_CAuthority.h" />
+    <ClInclude Include="JL_CSkin.h" />
+    <ClInclude Include="JL_CConfig.h" />
+    <ClInclude Include="JL_CEvent.h" />
+    <ClInclude Include="JL_CSubSystem.h" />
+    <ClInclude Include="JL_CCloud.h" />
+    <ClInclude Include="JL_CDataCenter.h" />
+    <ClInclude Include="JL_CSafety.h" />
+    <ClInclude Include="JL_CCrypt.h" />
+    <ClInclude Include="JL_CBusinessIntelligence.h" />
+    <ClInclude Include="JL_CManualIntelligence.h" />
+    <ClInclude Include="JL_CMap.h" />
+    <ClInclude Include="JL_CCommand.h" />
+    <ClInclude Include="JL_CFileSystem.h" />
+    <ClInclude Include="JL_CFile.h" />
+    <ClInclude Include="JL_CDate.h" />
+    <ClInclude Include="JL_CBase.h" />
+    <ClInclude Include="JL_CLoadBalance.h" />
+    <ClInclude Include="JL_CDll.h" />
+    <ClInclude Include="JL_CQueue.h" />
+    <ClInclude Include="JL_CEnd.h" />
+    <ClInclude Include="JL_CSocket.h" />
+    <ClInclude Include="JL_CArchitecture.h" />
+  </ItemGroup>
+</Project>
